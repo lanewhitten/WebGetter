@@ -1,2 +1,2 @@
 # WebGetter
-Gets the Html Code from url input
+Gets the Html Code of a website from a url input
